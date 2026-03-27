@@ -33,6 +33,17 @@ Example: for i in range(5):
                 3
                 4
 
+-=-=-=-=-=-=-=-=-=-=-=-=-
+
+## Practice
+
+## Script 1: Hello World
+- Printed a message in python saying Hello World
+
+## Script 2: Loop example
+- Used a for loop to print numbers from 0 to 4
+
+-=-=-=-=-=-=-=-=-=-=-=-=-
 ## Notes
 I will keep updating this repo as I continue in python and apply it with cybersecurity in mind
 
