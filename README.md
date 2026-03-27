@@ -17,7 +17,7 @@ Used to store data
 Example
 
 ## Print
-displays output
+Displays output
 Example: print("Hello world")
          output- Hello world
 
